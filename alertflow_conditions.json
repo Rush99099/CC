@@ -1,0 +1,6 @@
+{
+    "cpu_usage": 10,
+    "ram_usage": 10,
+    "packet_loss": 5,
+    "jitter": 100
+} 
